@@ -21,7 +21,7 @@ I'm a student passionate about technology, software engineering and Artificial I
 - Build an impressive technical portfolio
 
 ## Connect With Me
-- GitHub: 
+- GitHub: https://github.com/vikranthreddynh-lang
 - LinkedIn: www.linkedin.com/in/vikranth-reddy-n-h-b82000430
 
 *Learning. Building. Improving.*
