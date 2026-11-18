@@ -23,5 +23,6 @@ I'm a student passionate about technology, software engineering and Artificial I
 ## Connect With Me
 - GitHub: https://github.com/vikranthreddynh-lang
 - LinkedIn: www.linkedin.com/in/vikranth-reddy-n-h-b82000430
+- Kaggle: https://www.kaggle.com/vikranthreddynh
 
 *Learning. Building. Improving.*
